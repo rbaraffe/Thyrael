@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Robin, Full Stack engineer** working in Lille, France.
+### I'm Robin, Full Stack engineer working in Lille, France.
 
 ------------
 
