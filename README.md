@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-### I'm Robin, Full Stack engineer working in Lille, France.
+### I'm Robin [Ξ], Full Stack engineer working in Lille, France.
 
 ------------
+[![Linkedin Profile](https://img.shields.io/badge/-Robin%20Baraffe-orange?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robin-baraffe)](https://www.linkedin.com/in/robin-baraffe)
+[![Twitter Profile](https://img.shields.io/badge/-Robin%20Baraffe-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/robinBaraffe)](https://twitter.com/RobinBaraffe)
+[![GitHub Profile](https://img.shields.io/badge/-Thyrael-24292e?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Thyrael)](https://github.com/Thyrael)
 
-After bad professional experiences in development, I regained faith in development and open source in 2020 (thanks to my colleague and friend [@Jerome1337](https://github.com/Jerome1337)).  I'm now working with him on open source side projects with our Github organization named **Los-Crackitos**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thyrael&theme=radical&show_icons=true&count_private=true)
+![Favorite Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyrael&layout=compact&theme=radical)
 
-I love **Golang** and his environment and i appreciate **JavaScript**, in particular **SvelteJs and ReactJS**.
-
-I'm currently working on python/react-native project and to the developpment of our meetup [Lille-Gophers](https://lille-gophers.loscrackitos.codes/).
